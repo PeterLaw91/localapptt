@@ -3,6 +3,8 @@ import 'package:flutter_application_1/screens/test.dart';
 import 'package:flutter_application_1/widgets/login.dart';
 
 class HomePage extends StatefulWidget {
+  const HomePage({super.key});
+
   @override
   _HomePageState createState() => _HomePageState();
 }
